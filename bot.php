@@ -634,8 +634,7 @@ if(!is_null($events)){
                                             'EP.07',
                                             'ทำความรู้จัก DAX ตอนที่ 1',
                                             'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c5.png',
-                                            $actionBuilder5
-                                        ),           
+                                            $actionBuilder5           
                                         ),                                         
                                     )
                                 )
